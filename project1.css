@@ -1,0 +1,76 @@
+body{
+  margin: 0;
+}
+.wrapper{
+  width: 900px;
+  margin: auto;
+  overflow: hidden;
+}
+.one{
+  width: 33.33%;
+  float: left;
+  margin-bottom: 15px;
+  padding: 0 5px;
+  box-sizing: border-box;
+}
+.blue{
+  height: 100px;
+  background-color: skyblue;
+  padding: 15px;
+  box-shadow: 5px 5px 10px #d4d4d4;
+}
+.two{
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 0 5px;
+  box-sizing: border-box;
+}
+
+.orange{
+  height: 100px;
+  background-color: orange;
+  padding: 15px;
+  box-shadow: 5px 5px 10px #d4d4d4;
+}
+.three{
+  width: 50%;
+  margin-bottom: 15px;
+  float: left;
+  padding: 0 5px;
+  box-sizing: border-box;
+}
+
+.pink{
+  height: 100px;
+  background-color: pink;
+  padding: 15px;
+  box-shadow: 5px 5px 10px #d4d4d4;
+}
+.four{
+  width: 60%;
+  margin-bottom: 15px;
+  float: left;
+  padding: 0 5px;
+  box-sizing: border-box;
+}
+
+.blue{
+  height: 100px;
+  background-color: blue;
+  padding: 15px;
+  box-shadow: 5px 5px 10px #d4d4d4;
+}
+.five{
+  width: 20%;
+  margin-bottom: 15px;
+  float: left;
+  padding: 0 5px;
+  box-sizing: border-box;
+}
+
+.purple{
+  height: 100px;
+  background-color: purple;
+  padding: 15px;
+  box-shadow: 5px 5px 10px #d4d4d4;
+}
